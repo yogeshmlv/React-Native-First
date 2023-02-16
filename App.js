@@ -11,6 +11,7 @@ export default function App() {
 
         <View style={styles.items}>
           {/* This is Where the task will go ! */}
+          <Task text ={'First Project in Andriod '}/>
           <Task text={'React Native'}/>
         <Task text={'Raect Js'}/>
         <Task text ={'JavaScript'}/>
